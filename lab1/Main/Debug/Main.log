@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Admin\Desktop\Main\Main\Main.cpp(62,11): warning C4101: inputter: неиспользованная локальная переменная
+  Main.vcxproj -> C:\Users\Admin\Desktop\Main\Debug\Main.exe
