@@ -1,0 +1,6 @@
+﻿  Reporter.cpp
+C:\Users\Admin\Desktop\Reporter\Reporter\Reporter.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Reporter\Reporter\Reporter.cpp(31,11): warning C4101: a: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Reporter\Reporter\Reporter.cpp(31,14): warning C4101: b: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\Admin\Desktop\Reporter\Debug\Reporter.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Reporter.vcxproj -> C:\Users\Admin\Desktop\Reporter\Debug\Reporter.exe
