@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\Admin\Desktop\Оси\lab2_os\funk_lab2\Header.h(12,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Оси\lab2_os\funk_lab2\Header.h(24,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Оси\lab2_os\funk_lab2\Header.h(37,21): warning C4018: <: несоответствие типов со знаком и без знака
+  UnitTest1.vcxproj -> C:\Users\Admin\Desktop\Оси\lab2_os\Debug\UnitTest1.dll
